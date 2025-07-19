@@ -237,4 +237,3 @@ Este projeto foi desenvolvido como teste técnico.
 
 ---
 
-⭐ Se este projeto foi útil, considere dar uma estrela no repositório! 

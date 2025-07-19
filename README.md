@@ -232,7 +232,7 @@ Este projeto foi desenvolvido como teste técnico.
 
 ## 👨‍💻 Autor
 
-**Marcos Evangelista**
+**Marcos Eduardo**
 - GitHub: [@marcos-ev](https://github.com/marcos-ev)
 
 ---
